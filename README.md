@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception
 [![website](https://img.shields.io/badge/Website-Explore%20Now-blueviolet?style=flat&logo=google-chrome)](https://quantv2x.github.io/QuantV2X/)
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2509.03704)
@@ -142,3 +143,7 @@ Other useful citations:
 
 ## Other Development Team Members
 [Aiden Wong](https://www.linkedin.com/in/aidwong)
+=======
+# rd-v2x
+Upper Bounds for the Rate-Distortion function for cooperative perception in autonomous vehicles
+>>>>>>> 3e4fe0653112ecee469575eaaa92477fed09126c
